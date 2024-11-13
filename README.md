@@ -1,1 +1,1 @@
-# android-mvvm
+Esse repositório faz parte dos estudos sobre arquitetura MVVM no android
